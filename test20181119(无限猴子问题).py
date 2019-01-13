@@ -1,7 +1,7 @@
 import random
 import time
 
-string = '''You don't understand! I coulda had class. I coulda been a contender.
+string = '''hahahah You don't understand! I coulda had class. I coulda been a contender.
 I could've been somebody,instead of a bum, which is what I am.
 And God blessed them, and God said unto them, Be fruitful, and multiply, 
 and replenish the earth, and subdue it: and have dominion over the fish of the sea, 
